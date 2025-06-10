@@ -32,7 +32,9 @@
 📌 Benutzeroberfläche (index.html):
 
 > Eingabefelder zur Auswahl der Passwortlänge.
-  - Checkboxen für optionale Zeichen: Großbuchstaben, Zahlen, Sonderzeichen. <br>
+  - Checkboxen für optionale Zeichen: Großbuchstaben, Zahlen, Sonderzeichen.
+
+<br>
 
 - Button zum Generieren des Passwortes.
   - Dynamische Stärkeanzeige mit Farbfeedback.
