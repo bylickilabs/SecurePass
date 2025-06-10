@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+  <meta charset="UTF-8">
+  <title>SecurePass – Passwortgenerator mit Verschlüsselung</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+</head>
+<body>
+  <h1>🔒 SecurePass</h1>
+
+  <input type="number" id="length" placeholder="Passwortlänge (z.B. 12)" min="6" max="32">
+
+<div class="options">
+  <label>
+    <input type="checkbox" id="uppercase" checked> Großbuchstaben
+  </label>
+  <label>
+    <input type="checkbox" id="numbers" checked> Zahlen
+  </label>
+  <label>
+    <input type="checkbox" id="symbols" checked> Sonderzeichen
+  </label>
+</div>
+
+  <button id="generateBtn">Passwort generieren</button>
+
+  <div id="passwordOutput"></div>
+  <div id="strengthFeedback"></div>
+  <div id="encryptedOutput"></div>
+
+  <script src="assets/js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,30 @@
+body {
+  font-family: Arial, sans-serif;
+  max-width: 500px;
+  margin: 40px auto;
+  padding: 20px;
+  background: #f4f7fa;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+  border-radius: 8px;
+  text-align: center;
+}
+
+input[type="number"], button {
+  width: 100%;
+  padding: 10px;
+  margin: 10px 0;
+  box-sizing: border-box;
+}
+
+.options {
+  text-align: left;
+  margin-bottom: 15px;
+}
+
+#passwordOutput, #strengthFeedback, #encryptedOutput {
+  margin-top: 10px;
+  padding: 10px;
+  font-weight: bold;
+  border-radius: 5px;
+  word-wrap: break-word;
+}
