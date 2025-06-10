@@ -2,7 +2,7 @@
 
 > SecurePass Version 2 ist eine verbesserte, visuell ansprechende Webanwendung zur sicheren und intuitiven Generierung von Passwörtern, ergänzt durch einen Schieberegler und optimiertes Design.
 
-|![v2](https://github.com/user-attachments/assets/c573a637-0199-49e0-8371-31146fd11e1d)|
+|![v2](https://github.com/user-attachments/assets/0a715eda-8c55-4d41-b4a3-043f2d199aa8)|
 |---|
 
 
