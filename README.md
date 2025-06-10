@@ -22,3 +22,9 @@
 > Erzeugung sicherer Passwörter basierend auf Nutzerpräferenzen.
   - Stärkeprüfung und Feedback in Echtzeit.
     - Serverseitige Stärkeprüfung durch PHP (für eine valide und unabhängige Bewertung).
+
+<br>
+
+---
+
+<br>
