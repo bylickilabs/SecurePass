@@ -121,7 +121,7 @@ http://localhost/SecurePass/index.html
 📋 Verwendung der Anwendung
 
 > Stelle über das UI die gewünschte Passwortlänge ein.
-  - Aktiviere nach Bedarf die Optionen: Großbuchstaben, Zahlen, Sonderzeichen.
+  - Deaktiviere nach Bedarf die Optionen: Großbuchstaben, Zahlen, Sonderzeichen.
     - Generiere dein Passwort und lasse es automatisch auf Stärke prüfen.
 
 
