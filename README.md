@@ -4,15 +4,17 @@
 |---|
 
 - S – Strong
-- E – Evaluated
-- C – Complex
-- U – Unique
-- R – Reliable
-- E – Effective
+  - E – Evaluated
+    - C – Complex
+      - U – Unique
+        - R – Reliable
+          - E – Effective
+<br>
+
 - P – Password
-- A – Authentication &
-- S – Security
-- S – System
+  - A – Authentication &
+    - S – Security
+      - S – System
 
 <br>
 
