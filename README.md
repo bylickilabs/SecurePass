@@ -1,5 +1,8 @@
 # SecurePass
 
+|![v2](https://github.com/user-attachments/assets/3adf01d5-e063-4872-9be6-6f561dd1a2da)|
+|---|
+
 - S – Strong
 - E – Evaluated
 - C – Complex
@@ -10,9 +13,6 @@
 - A – Authentication &
 - S – Security
 - S – System
-
-|![v2](https://github.com/user-attachments/assets/3adf01d5-e063-4872-9be6-6f561dd1a2da)|
-|---|
 
 <br>
 
