@@ -46,7 +46,7 @@ br>
 <br>
 
 ```yarn
-securepass/
+SecurePass/
 │
 ├── assets/
 │   ├── css/
