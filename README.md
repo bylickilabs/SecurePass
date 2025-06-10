@@ -38,3 +38,25 @@
 
 - Button zum Generieren des Passwortes.
   - Dynamische Stärkeanzeige mit Farbfeedback.
+
+br>
+
+---
+
+<br>
+
+```yarn
+securepass/
+│
+├── assets/
+│   ├── css/
+│   │   └── style.css
+│   └── js/
+│       └── script.js
+│
+├── api/
+│   ├── strengthCheck.php
+│   └── encrypt.php
+│
+└── index.html
+```
