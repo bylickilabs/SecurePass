@@ -39,7 +39,7 @@
 - Button zum Generieren des Passwortes.
   - Dynamische Stärkeanzeige mit Farbfeedback.
 
-br>
+<br>
 
 ---
 
