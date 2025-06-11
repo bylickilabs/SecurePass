@@ -1,6 +1,6 @@
 # SecurePass
 
-|![v2](https://github.com/user-attachments/assets/3adf01d5-e063-4872-9be6-6f561dd1a2da)|
+|![SecurePass2](https://github.com/user-attachments/assets/0a6f1a4f-3b57-433c-b8af-d601c857b06a)|
 |---|
 
 - S – Strong
